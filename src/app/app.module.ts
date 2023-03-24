@@ -37,5 +37,5 @@ import { StatsComponent } from './components/stats/stats.component';
   ],
   providers: [],
   bootstrap: [AppComponent]
-})
+})g
 export class AppModule { }

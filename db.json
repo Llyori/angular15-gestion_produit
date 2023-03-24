@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "SmartPhonee",
+      "price": 4300,
+      "quantity": 600,
+      "selected": true,
+      "available": false
+    },
+    {
+      "id": 2,
+      "name": "Refulatore",
+      "price": "12 000",
+      "quantity": "1000",
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "Deki",
+      "price": 0,
+      "quantity": 0,
+      "selected": true,
+      "available": false
+    }
+  ]
+}
